@@ -1,3 +1,5 @@
+<img src='https://www.canva.com/design/DAEgSiqTQc4/EFDdzP3loI_c-n32alcw4w/edit' alt=''>
+
 ### Hola 👋, Mi nombre es **Mauricio**
 #### **Soy Full Stack Web Developer**
 Me gusta sumar nuevas tecnologías a mi conocimiento. Cuento con habilidades autodidactas, flexibilidad, adaptación y trabajo en equipo.
