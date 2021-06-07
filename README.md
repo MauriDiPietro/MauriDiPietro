@@ -1,4 +1,4 @@
-<img src='https://www.canva.com/design/DAEgSiqTQc4/EFDdzP3loI_c-n32alcw4w/edit' alt=''>
+
 
 ### Hola 👋, Mi nombre es **Mauricio**
 #### **Soy Full Stack Web Developer**
@@ -6,7 +6,7 @@ Me gusta sumar nuevas tecnologías a mi conocimiento. Cuento con habilidades aut
 
 Habilidades: **JavaScript | React | Redux | Node.js | Express |**
 
-- 🔭 Estoy trabajando en estos proyectos..                                             ![]() 
+- 🔭 Estos son mis proyectos..                                             ![]() 
 
 #### **Si queres contactarme:**
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/jm-di-pietro/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](dipietro.jm@gmail.com)  
