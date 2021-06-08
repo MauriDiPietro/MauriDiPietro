@@ -6,7 +6,7 @@ Me gusta sumar nuevas tecnologías a mi conocimiento. Cuento con habilidades aut
 
 Habilidades: **JavaScript | React | Redux | Node.js | Express |**
 
-- 🔭 Estos son mis proyectos..                                             
+🔭 Estos son mis proyectos..                                             
 - [Videogames App](https://www.linkedin.com/feed/update/urn:li:activity:6806339306781777920/) 
 
 #### **Si queres contactarme:**
