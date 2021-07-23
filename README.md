@@ -10,6 +10,8 @@ Habilidades: **JavaScript | React | Redux | Node.js | Express |**
 🔭 Estos son mis proyectos..                                             
 - [Videogames App](https://www.linkedin.com/feed/update/urn:li:activity:6806339306781777920/) 
 
+- Colaboré en esta App --> [Yo Agrónomo] (https://yoagronomoapp.vercel.app/)
+
 
 #### **Si queres contactarme:**
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/jm-di-pietro/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](dipietro.jm@gmail.com)  
