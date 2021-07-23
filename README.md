@@ -10,7 +10,7 @@ Habilidades: **JavaScript | React | Redux | Node.js | Express |**
 🔭 Estos son mis proyectos..                                             
 - [Videogames App](https://www.linkedin.com/feed/update/urn:li:activity:6806339306781777920/) 
 
-- Colaboré en esta App --> [Yo Agrónomo] (https://yoagronomoapp.vercel.app/)
+- Colaboré en esta App --> [Yo Agrónomo](https://yoagronomoapp.vercel.app/)
 
 
 #### **Si queres contactarme:**
