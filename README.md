@@ -15,6 +15,12 @@ Habilidades: **JavaScript | React | Redux | Node.js | Express | Sequelize | Post
 
 - Colaboré en esta App --> [Yo Agrónomo](https://yoagronomoapp.vercel.app/)
 
+- App Posts (https://github.com/MauriDiPietro/crud-fullstack)
+
+- Chat.io (https://github.com/MauriDiPietro/chat-socket.io)
+
+- Login + Panel Usuario con Auth0 (https://github.com/MauriDiPietro/login-node-Auth0)
+
 
 #### **Si queres contactarme:**
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/jm-di-pietro/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](dipietro.jm@gmail.com)  
