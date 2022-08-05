@@ -24,6 +24,11 @@ Habilidades: **JavaScript | React | Redux | Node.js | Express | Sequelize | Post
 
 - Login + Panel Usuario con Auth0 (https://github.com/MauriDiPietro/login-node-Auth0)
 
+- App Point of Sale (https://github.com/MauriDiPietro/PoS-mongo)
+
+- API Disney (https://github.com/MauriDiPietro/api-disney)
+
+- Participé en esta App --> [ONG-Node](https://github.com/alkemyTech/OT245-Server)
 
 #### **Si queres contactarme:**
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/jm-di-pietro/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](dipietro.jm@gmail.com)  
